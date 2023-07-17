@@ -1,15 +1,15 @@
 {
   "site": {
-    "title": "Nextplate",
-    "base_url": "https://nextplate.netlify.app",
+    "title": "Emazweni Web Services (Pty) Ltd",
+    "base_url": "https://emazweniws.com",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
-    "logo_width": "150",
-    "logo_height": "27",
-    "logo_text": "Nextplate"
+    "favicon": "/images/e-icon.png",
+    "logo": "/images/Emazweni-new-Logo.png",
+    "logo_darkmode": "/images/e-icon.png",
+    "logo_width": "100",
+    "logo_height": "75",
+    "logo_text": "EWS-Logo"
   },
 
   "settings": {
@@ -24,24 +24,24 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Designed & Developed by [ Emazweni Web Services (Pty) Ltd](https://emazweniws.com)"
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
-    "link": "https://github.com/zeon-studio/nextplate"
+    "label": "Login",
+    "link": "/"
   },
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "Emazweni Web Services",
     "settings": {}
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Next Boilerplate"
+    "meta_author": "Emazweni Web Services(Pty) Ltd",
+    "meta_image": "/images/e-icon.png",
+    "meta_description": "Emazweni Web SERVICE (PTY) LTD"
   }
 }

@@ -5,40 +5,40 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Emazweni",
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "e-Blog",
+      "url": "/blog"
     },
     {
-      "name": "Pages",
+      "name": "Our Services",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Contact",
+          "name": "Technology",
           "url": "/contact"
         },
         {
-          "name": "Blog",
+          "name": "Software-Dev",
           "url": "/blog"
         },
         {
-          "name": "Authors",
+          "name": "Data",
           "url": "/authors"
         },
         {
-          "name": "Categories",
+          "name": "A.I",
           "url": "/categories"
         },
         {
-          "name": "Search",
+          "name": "Architecture",
           "url": "/search"
         },
         {
-          "name": "404 Page",
+          "name": "Automation",
           "url": "/404"
         }
       ]
@@ -46,8 +46,8 @@
   ],
   "footer": [
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Saas",
+      "url": "/htt"
     },
     {
       "name": "Privacy Policy",
