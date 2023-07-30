@@ -24,7 +24,7 @@ const Home = () => {
     <>
       <SeoMeta />
       <section className="section pt-14">
-        <div className="container">
+        <div className="container-wrapper">
           <div className="row justify-center">
             <div className="mb-16 text-center lg:col-7">
               <h1
@@ -46,7 +46,7 @@ const Home = () => {
                 <ImageFallback
                   src={banner.image}
                   className="mx-auto"
-                  width="800"
+                  width="980"
                   height="420"
                   alt="banner image"
                   priority

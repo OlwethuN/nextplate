@@ -2,11 +2,11 @@
 # Banner
 banner:
   title: "We are your ultimate Cloud-Solution Providers.. "
-  content: "Established in (2020), Emazweni Web Services delivers pioneering web-based solutions which harness the Power of A.I Technology. As a Tech-based company, our mission is to thrive in the IT industry and by doing so , we are determined on using the best and latest data analytics tools and application software’s to help our clients reach their potential business goals."
-  image: "/images/banner.png"
+  content: "Established in (2020), Emazweni Web Services delivers pioneering web-based solutions which harness the Power of A.I Technology. As a Tech-based company,we are determined on using the best and latest data analytics tools and application software’s to help our clients reach their potential business goals."
+  image: "/images/Virtual Reality.gif"
   button:
     enable: true
-    label: "Get Quote"
+    label: "Get Started Now"
     link: "#"
 
 # Features
@@ -34,20 +34,20 @@ features:
       - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
       - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
     button:
-      enable: true
+      enable: false
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/nextplate"
 
   - title: "Data Analytics"
     image: "/images/service-3.png"
-    content: "Data Analytics is the “heartbeat” of Emazweni Web Services. Using Cloud-Web Dashboard Analytics, Forecasting and Software Development, our aim to save clients time and reduce stress in the most cost-effective way."
+    content: "We offer unstacked data solutions that enable you to collect and organize raw data that can be turned into actionable insights which can be used to improve campaigns, personalize content, and reach business objectives."
 
     bulletpoints:
-      - "Descriptive Analytics-is the evaluation of historic data which helps to better understand company trends."
+      - "Descriptive Analytics"
 
-      - "Predictive analytics- The use of statistics and modelling approaches to predict future performance based on current and historical data is known as predictive analytics."
+      - "Predictive Analytics"
 
-      - "Prescriptive analytics- is a type of data analytics in which technology is used to assist businesses in making better decisions by analysing raw data."
+      - "Prescriptive Analytics"
    
     button:
       enable: false
@@ -61,16 +61,11 @@ features:
     
     bulletpoints:
 
-      - "Mobile Apps
-        As development companies compete to create the next latest and greatest mobile applications, at
-        Emazweni Web Services we seek to empower local economies of scale with the latest and greatest, accelerating their transition to mainstream readiness."
+      - "Mobile Apps"
       
-      - "Responsive Web Application
-        Emazweni Web Services conducts rigorous research to verify
-        that your users' devices, operating systems, and browsers are supported, allowing your business to run smoothly."
+      - "Responsive Web Application"
 
-      - "Ecommerce Solutions
-        Every company sells something, whether it is services or goods. With more and more access to the Online marketplace, The days of shopping as we know it are numbered."
+      - "E-commerce Solutions"
  
     button:
       enable: false
